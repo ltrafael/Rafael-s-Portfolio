@@ -19,6 +19,8 @@ Educational analysis of student performance, this was done as part of the specia
 - correlation
 - visualization plots
 
+![](/images/G3%20x%20edu.png)
+
 
 ## [Power BI] [Project 1: GDP Indicators in the USA](https://github.com/ltrafael/GDP-Indicators-in-the-USA)
 Simple report made as practice, using GDP and population data for all USA states. Enables the selection of desired states for quick comparison. 
@@ -26,3 +28,5 @@ Simple report made as practice, using GDP and population data for all USA states
 - Comparison between all states for the 3 variables
 - Comparison of growth rates for each variable
 - States with highest GDP per capita increase in this period (Way to go North Dakota!)
+
+![](/images/GDP%20per%20capita%20increase%20map.png)
