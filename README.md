@@ -8,6 +8,10 @@ This is my personal portfolio for data science and data analysis projects. For m
 - What does the housing market on those cities look like up until 2021?
 - Did the pandemic affect the housing market in Brazil?
 
+![](images/Cases BR2 100dpi.png)
+
+![](images/Covid x housing gif.gif)
+
 
 ## [Jupyter] [Project 2: Analyzing student performance (pt-br)](https://github.com/ltrafael/-Educational-analysis-on-Student-Performance)
 Educational analysis of student performance, this was done as part of the specialization/certificate course on data science. Contains detailed explanation of different data munging/wrangling methods and visualizations, such as:
