@@ -8,7 +8,7 @@ We analyzed COVID-19 and housing market data using Python and Power BI. You can 
 1. How did the pandemic behave in Brazilian capitals and on a national level?
 2. How did the housing market behave before and during the pandemic period?
 
-Some of the insights extracted from the data are:
+Some of the insights we extracted from the data are:
 - The impacts of the pandemic were accentuated in bigger cities;
 - In 2020, residential rentability went down in most of the analyzed capitals;
 - There moderate/strong correlations between COVID and housing variables.
