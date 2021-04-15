@@ -8,6 +8,8 @@ This is my personal portfolio for data science and data analysis projects. For m
 - What does the housing market on those cities look like up until 2021?
 - Did the pandemic affect the housing market in Brazil?
 
+![](images/Cases_BR.png)
+
 ![](images/Cases_BR_100dpi.png)
 
 ![](images/Covid_X_housing_GIF.gif)
