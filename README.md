@@ -4,7 +4,7 @@ This is my personal portfolio for data science and data analysis projects. For m
 
 
 ### [Python/Power BI] [Covid x Housing market in Brazil Part 1/2](https://github.com/ltrafael/The-Impact-of-the-Pandemic-on-the-Housing-Market-in-Brazil)
-We analyzed COVID-19 and housing market data using Python and Power BI. You can read the Medium post [here](https://lnkd.in/e_Dk4EH). The two main questions answered here are:
+This project was made in collaboration with [Talles](https://www.linkedin.com/in/talles-di-cunto/). We analyzed COVID-19 and housing market data using Python and Power BI. You can read the Medium post [here](https://lnkd.in/e_Dk4EH). The two main questions answered here are:
 1. How did the pandemic behave in Brazilian capitals and on a national level?
 2. How did the housing market behave before and during the pandemic period?
 
