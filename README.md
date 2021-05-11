@@ -11,7 +11,7 @@ This project was made in collaboration with [Talles](https://www.linkedin.com/in
 Some of the insights we extracted from the data are:
 - The impacts of the pandemic were accentuated in bigger cities;
 - In 2020, residential rentability went down in most of the analyzed capitals;
-- There moderate/strong correlations between COVID and housing variables.
+- There are mostly moderate and strong correlations between COVID and housing variables.
 
 
 ![Daily new cases in Brazil — Mar 2020 to Jan 2021](images/Cases_BR_100dpi.png)
