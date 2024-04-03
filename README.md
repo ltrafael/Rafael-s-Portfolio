@@ -10,7 +10,7 @@ Some of the challenges found with this problem were:
 - Privacy and confidentiality: to prevent recognizing individuals from the data, it has been provided after transformations that create new numerical columns based on the original ones, meaning no further interpretation can be made from the data
 - Concept drift: it happens when one or more characteristics of the data is subject to change over time. It can happen in many forms, gradual or sudden, single event or reoccuring. If not dealt with, it can significantly affect the performance of models and understanding of behavior
 
-Initial results with the model Random Forest Classifier show that 76% of frauds can be detected, translating to an estimate of 6.5 million Euros in annual savings.
+Initial results with the model Random Forest Classifier show that **76%** of frauds can be detected, translating to an estimate of **6.5 million Euros in annual savings**.
 
 ![Credit Card Fraud](images/theme_image.png)
 
